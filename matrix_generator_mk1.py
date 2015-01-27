@@ -1,3 +1,5 @@
+#matrix generator 
+
 import  arcpy, cPickle
 from arcpy import env
 
